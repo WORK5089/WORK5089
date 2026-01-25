@@ -50,7 +50,7 @@ I build websites, make small games/mods, and create tools that help people keep 
 <!-- You can use GitHub stats cards here (example): -->
 ![Top Langs](https://github.com/WORK5089)
 ![Stats](https://github.com/WORK5089)
-
+![Discord]https://discord.gg/VtVdYzX4
 ---
 
 Thanks for stopping by — feel free to open an issue, say hi, or fork a project! 🚀
